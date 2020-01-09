@@ -22,6 +22,8 @@ Set labels from lists using helpers:
 - data.R
 - analysis.Rmd
 - Readme.md
+- misc.R
+- styles.css
 
 ## Validation
 
