@@ -35,5 +35,6 @@ arsenal_stats_labels <- list(
   Nmiss = "Нет данных",
   meansd = "Среднее (СКО)",
   medianq1q3 = "Медиана (Q1, Q3)",
+  range = "Минимум - Максимум",
   skewkurt = "Ассиметрия / Эксцесс"
 )
